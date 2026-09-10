@@ -36,14 +36,18 @@ export function References() {
       </p>
       <div>
         {[
-          ["Content Sprint", 18],
-          ["ONG La Colombe", 19],
-          ["CGTK Group", 20],
-          ["Groupe Rosa", 23],
-        ].map(([n, i]) => (
-          <span key={n}>
-            <Asset index={Number(i)} className={s.referenceLogo} alt="" />
-            {n}
+          { name: "Content Sprint", image: 18 },
+          { name: "ONG La Colombe", image: 19 },
+          { name: "CGTK Group", image: 20 },
+          { name: "Groupe Rosa", image: 23, hideName: true },
+        ].map(({ name, image, hideName }) => (
+          <span key={name}>
+            <Asset
+              index={image}
+              className={s.referenceLogo}
+              alt={hideName ? name : ""}
+            />
+            {!hideName && name}
           </span>
         ))}
       </div>
