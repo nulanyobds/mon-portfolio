@@ -36,20 +36,43 @@ export function Hero() {
   const cardYValue = useMotionValue(0);
   const cardX = useSpring(cardXValue, { stiffness: 120, damping: 20 });
   const cardY = useSpring(cardYValue, { stiffness: 120, damping: 20 });
+  const boundsRef = useRef<DOMRect | null>(null);
+  const frameRef = useRef<number | null>(null);
+  const pendingRef = useRef<{ x: number; y: number } | null>(null);
 
-  function moveCard(event: PointerEvent<HTMLElement>) {
+  function enterCard(event: PointerEvent<HTMLElement>) {
     if (
       reduced ||
       !window.matchMedia("(hover: hover) and (min-width: 1024px)").matches
     ) {
+      boundsRef.current = null;
       return;
     }
-    const bounds = event.currentTarget.getBoundingClientRect();
-    cardXValue.set(((event.clientX - bounds.left) / bounds.width - 0.5) * 8);
-    cardYValue.set(((event.clientY - bounds.top) / bounds.height - 0.5) * 8);
+    boundsRef.current = event.currentTarget.getBoundingClientRect();
+  }
+
+  function moveCard(event: PointerEvent<HTMLElement>) {
+    const bounds = boundsRef.current;
+    if (!bounds) return;
+    pendingRef.current = { x: event.clientX, y: event.clientY };
+
+    if (frameRef.current !== null) return;
+    frameRef.current = requestAnimationFrame(() => {
+      frameRef.current = null;
+      const pending = pendingRef.current;
+      if (!pending) return;
+      cardXValue.set(((pending.x - bounds.left) / bounds.width - 0.5) * 8);
+      cardYValue.set(((pending.y - bounds.top) / bounds.height - 0.5) * 8);
+    });
   }
 
   function resetCard() {
+    boundsRef.current = null;
+    pendingRef.current = null;
+    if (frameRef.current !== null) {
+      cancelAnimationFrame(frameRef.current);
+      frameRef.current = null;
+    }
     cardXValue.set(0);
     cardYValue.set(0);
   }
@@ -59,6 +82,7 @@ export function Hero() {
       ref={heroRef}
       id="accueil"
       className={s.hero}
+      onPointerEnter={enterCard}
       onPointerMove={moveCard}
       onPointerLeave={resetCard}
     >

@@ -18,6 +18,7 @@ import { ScrollToggleScene } from "../motion/ScrollToggleScene";
 import { ProcessProgress } from "../motion/ProcessProgress";
 import { ParallaxAsset } from "../motion/ParallaxAsset";
 import { motionEase } from "../motion/MotionProvider";
+import { useReplayableInView } from "../../hooks/useReplayableInView";
 import s from "./Portfolio.module.css";
 
 export function References() {
@@ -354,8 +355,10 @@ export function Solutions() {
 }
 export function About() {
   const reduced = useReducedMotion();
+  const sectionRef = useRef<HTMLElement>(null);
+  const active = useReplayableInView(sectionRef, { amount: 0.1 });
   return (
-    <section id="about" className={s.section}>
+    <section id="about" className={s.section} ref={sectionRef}>
       <Eyebrow>À propos de moi</Eyebrow>
       <div className={s.aboutCard}>
         <motion.div
@@ -396,7 +399,7 @@ export function About() {
           <motion.div
             className={s.purpleCircle}
             animate={
-              reduced
+              reduced || !active
                 ? undefined
                 : { scale: [1, 1.025, 1], opacity: [0.9, 1, 0.9] }
             }
@@ -404,7 +407,7 @@ export function About() {
           />
           <motion.span
             aria-hidden="true"
-            animate={reduced ? undefined : { y: [-3, 3, -3] }}
+            animate={reduced || !active ? undefined : { y: [-3, 3, -3] }}
             transition={{ duration: 9, repeat: Infinity, ease: "easeInOut" }}
           >
             BUILD

@@ -36,29 +36,57 @@ export function SpotlightCard({
   const rotateYValue = useMotionValue(0);
   const rotateX = useSpring(rotateXValue, { stiffness: 180, damping: 24 });
   const rotateY = useSpring(rotateYValue, { stiffness: 180, damping: 24 });
+  const boundsRef = useRef<DOMRect | null>(null);
+  const frameRef = useRef<number | null>(null);
+  const pendingRef = useRef<{
+    x: number;
+    y: number;
+    target: HTMLElement;
+  } | null>(null);
 
-  function move(event: PointerEvent<HTMLElement>) {
+  function enter(event: PointerEvent<HTMLElement>) {
     if (
       reduced ||
       !powered ||
       !window.matchMedia("(hover: hover) and (min-width: 1024px)").matches
     ) {
+      boundsRef.current = null;
       return;
     }
+    boundsRef.current = event.currentTarget.getBoundingClientRect();
+  }
 
-    const bounds = event.currentTarget.getBoundingClientRect();
-    const x = event.clientX - bounds.left;
-    const y = event.clientY - bounds.top;
-    event.currentTarget.style.setProperty("--spot-x", `${x}px`);
-    event.currentTarget.style.setProperty("--spot-y", `${y}px`);
+  function move(event: PointerEvent<HTMLElement>) {
+    const bounds = boundsRef.current;
+    if (!bounds) return;
 
-    if (tilt) {
-      rotateXValue.set((y / bounds.height - 0.5) * -4.5);
-      rotateYValue.set((x / bounds.width - 0.5) * 4.5);
-    }
+    pendingRef.current = {
+      x: event.clientX - bounds.left,
+      y: event.clientY - bounds.top,
+      target: event.currentTarget,
+    };
+
+    if (frameRef.current !== null) return;
+    frameRef.current = requestAnimationFrame(() => {
+      frameRef.current = null;
+      const pending = pendingRef.current;
+      if (!pending) return;
+      pending.target.style.setProperty("--spot-x", `${pending.x}px`);
+      pending.target.style.setProperty("--spot-y", `${pending.y}px`);
+      if (tilt) {
+        rotateXValue.set((pending.y / bounds.height - 0.5) * -4.5);
+        rotateYValue.set((pending.x / bounds.width - 0.5) * 4.5);
+      }
+    });
   }
 
   function reset() {
+    boundsRef.current = null;
+    pendingRef.current = null;
+    if (frameRef.current !== null) {
+      cancelAnimationFrame(frameRef.current);
+      frameRef.current = null;
+    }
     rotateXValue.set(0);
     rotateYValue.set(0);
   }
@@ -83,6 +111,7 @@ export function SpotlightCard({
       whileHover={reduced ? undefined : { y: -5 }}
       transition={{ duration: 0.65, delay, ease: motionEase }}
       style={style}
+      onPointerEnter={enter}
       onPointerMove={move}
       onPointerLeave={reset}
     >
