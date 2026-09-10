@@ -12,7 +12,7 @@ for (const name of await fs.readdir(dir)) {
   const index = Number(name.split("-")[1].split(".")[0]);
   const image = sharp(source);
   const m = await image.metadata();
-  const max = [7, 8, 9, 10, 13].includes(index)
+  const max = [7, 8, 9, 10, 13, 18, 19, 20, 23].includes(index)
     ? 320
     : [0, 17, 22].includes(index)
       ? 1000

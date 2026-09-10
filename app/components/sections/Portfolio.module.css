@@ -536,6 +536,12 @@
   white-space: nowrap;
   color: #cacaca;
 }
+.referenceLogo {
+  height: 26px;
+  width: auto;
+  max-width: 120px;
+  object-fit: contain;
+}
 .intro {
   padding: 36px var(--gutter);
   display: grid;

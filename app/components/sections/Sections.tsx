@@ -6,7 +6,6 @@ import {
   Plus,
   Minus,
   Search,
-  Circle,
   X,
 } from "lucide-react";
 import { portfolio as d } from "../../data/portfolio";
@@ -36,14 +35,17 @@ export function References() {
         Un partenaire de confiance pour des entrepreneurs et des entreprises
       </p>
       <div>
-        {["Content Sprint", "ONG La Colombe", "CGTK Group", "Groupe Rosa"].map(
-          (n) => (
-            <span key={n}>
-              <Circle size={26} aria-hidden="true" />
-              {n}
-            </span>
-          ),
-        )}
+        {[
+          ["Content Sprint", 18],
+          ["ONG La Colombe", 19],
+          ["CGTK Group", 20],
+          ["Groupe Rosa", 23],
+        ].map(([n, i]) => (
+          <span key={n}>
+            <Asset index={Number(i)} className={s.referenceLogo} alt="" />
+            {n}
+          </span>
+        ))}
       </div>
     </motion.section>
   );
