@@ -1,0 +1,3101 @@
+[
+  {
+    "id": "88:4710",
+    "name": "01 — Hero",
+    "width": 1280,
+    "height": 924,
+    "nodes": [
+      {
+        "id": "88:4714",
+        "name": "Decorative / BUILD",
+        "parent": "88:4710",
+        "text": "BUILD",
+        "font": 242,
+        "width": 694,
+        "height": 266,
+        "images": []
+      },
+      {
+        "id": "92:6526",
+        "name": "3D — Anneau Hero / PNG original",
+        "parent": "88:4710",
+        "font": null,
+        "width": 680,
+        "height": 481.9328918457031,
+        "images": ["2fc48174c06adf74afcdbf70dcdf6a7b0301d47d"]
+      },
+      {
+        "id": "88:4718",
+        "name": "img",
+        "parent": "88:4717",
+        "font": null,
+        "width": 1280,
+        "height": 924,
+        "images": ["790d85840cc12fee208dafde77b1268b15b28769"]
+      },
+      {
+        "id": "I88:4722;16:683",
+        "name": "Wordmark",
+        "parent": "88:4722",
+        "text": "BeDev",
+        "font": 15.979999542236328,
+        "width": 48,
+        "height": 22,
+        "images": []
+      },
+      {
+        "id": "I88:4722;16:684",
+        "name": "Dot",
+        "parent": "88:4722",
+        "text": ".",
+        "font": 15.979999542236328,
+        "width": 5,
+        "height": 22,
+        "images": []
+      },
+      {
+        "id": "88:4723",
+        "name": "Frame 3",
+        "parent": "88:4720",
+        "font": null,
+        "width": 141,
+        "height": 141,
+        "images": ["2abda46859d36816f7b3764aed44bfb386cf7975"]
+      },
+      {
+        "id": "88:4724",
+        "name": "Développeur & Content Sprint Co-fondateur",
+        "parent": "88:4720",
+        "text": "Développeur & Content\nSprint Co-fondateur",
+        "font": 11.279999732971191,
+        "width": 128,
+        "height": 32,
+        "images": []
+      },
+      {
+        "id": "88:4725",
+        "name": "+10 projets livrés",
+        "parent": "88:4720",
+        "text": "+10 projets livrés",
+        "font": 11.279999732971191,
+        "width": 88,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4726;13:618",
+        "name": "Label",
+        "parent": "88:4726",
+        "text": "Get in touch",
+        "font": 13.15999984741211,
+        "width": 77,
+        "height": 19,
+        "images": []
+      },
+      {
+        "id": "I88:4727;16:688;16:683",
+        "name": "Wordmark",
+        "parent": "I88:4727;16:688",
+        "text": "BeDev",
+        "font": 17,
+        "width": 51,
+        "height": 23,
+        "images": []
+      },
+      {
+        "id": "I88:4727;16:688;16:684",
+        "name": "Dot",
+        "parent": "I88:4727;16:688",
+        "text": ".",
+        "font": 17,
+        "width": 6,
+        "height": 23,
+        "images": []
+      },
+      {
+        "id": "I88:4727;16:692;16:686",
+        "name": "Label",
+        "parent": "I88:4727;16:692",
+        "text": "Home",
+        "font": 16,
+        "width": 44,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4727;16:694;16:686",
+        "name": "Label",
+        "parent": "I88:4727;16:694",
+        "text": "About",
+        "font": 16,
+        "width": 45,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4727;16:696;16:686",
+        "name": "Label",
+        "parent": "I88:4727;16:696",
+        "text": "Projects",
+        "font": 16,
+        "width": 62,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4727;16:698;13:618",
+        "name": "Label",
+        "parent": "I88:4727;16:698",
+        "text": "Get in touch",
+        "font": 14,
+        "width": 82,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "88:4730",
+        "name": "Kicker",
+        "parent": "88:4729",
+        "text": "Hey, je conçois",
+        "font": 16,
+        "width": 114,
+        "height": 22,
+        "images": []
+      },
+      {
+        "id": "88:4731",
+        "name": "Heading",
+        "parent": "88:4729",
+        "text": "App & landing\npage pro qui convertit",
+        "font": 76,
+        "width": 610,
+        "height": 231,
+        "images": []
+      },
+      {
+        "id": "88:4732",
+        "name": "Supporting",
+        "parent": "88:4729",
+        "text": "Je Transforme votre trafic en chiffre d'affaires grâce à des sites, tunnels et applications sur-mesure conçus pour convertir.",
+        "font": 17,
+        "width": 470,
+        "height": 78,
+        "images": []
+      },
+      {
+        "id": "I88:4733;13:623",
+        "name": "Label",
+        "parent": "88:4733",
+        "text": "Get in touch",
+        "font": 16,
+        "width": 91,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4736;17:831",
+        "name": "Number",
+        "parent": "88:4736",
+        "text": "#01",
+        "font": 12,
+        "width": 24,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4736;17:832",
+        "name": "Title",
+        "parent": "88:4736",
+        "text": "Performance",
+        "font": 14,
+        "width": 87,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "I88:4737;17:831",
+        "name": "Number",
+        "parent": "88:4737",
+        "text": "#02",
+        "font": 12,
+        "width": 26,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4737;17:832",
+        "name": "Title",
+        "parent": "88:4737",
+        "text": "UX & Conversion",
+        "font": 14,
+        "width": 111,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "I88:4738;17:831",
+        "name": "Number",
+        "parent": "88:4738",
+        "text": "#03",
+        "font": 12,
+        "width": 26,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4738;17:832",
+        "name": "Title",
+        "parent": "88:4738",
+        "text": "Outils sur-mesure",
+        "font": 14,
+        "width": 121,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "I88:4739;17:831",
+        "name": "Number",
+        "parent": "88:4739",
+        "text": "#04",
+        "font": 12,
+        "width": 27,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4739;17:832",
+        "name": "Title",
+        "parent": "88:4739",
+        "text": "Créativité",
+        "font": 14,
+        "width": 67,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "I88:4740;84:2688",
+        "name": "Label",
+        "parent": "88:4740",
+        "text": "Disponible pour vos projets",
+        "font": 12,
+        "width": 159,
+        "height": 13,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4741",
+    "name": "02 — Références",
+    "width": 1280,
+    "height": 84,
+    "nodes": [
+      {
+        "id": "I88:4742;19:993;17:806",
+        "name": "Intro",
+        "parent": "I88:4742;19:993",
+        "text": "Un partenaire de confiance pour des entrepreneurs et des entreprises",
+        "font": 16,
+        "width": 300,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4742;19:993;17:808;17:804",
+        "name": "Name",
+        "parent": "I88:4742;19:993;17:808",
+        "text": "Content Sprint",
+        "font": 16,
+        "width": 114,
+        "height": 22,
+        "images": []
+      },
+      {
+        "id": "I88:4742;19:993;17:813;17:804",
+        "name": "Name",
+        "parent": "I88:4742;19:993;17:813",
+        "text": "ONG La Colombe",
+        "font": 16,
+        "width": 128,
+        "height": 22,
+        "images": []
+      },
+      {
+        "id": "I88:4742;19:993;17:818;17:804",
+        "name": "Name",
+        "parent": "I88:4742;19:993;17:818",
+        "text": "CGTK Group",
+        "font": 16,
+        "width": 93,
+        "height": 22,
+        "images": []
+      },
+      {
+        "id": "I88:4742;19:993;17:824;17:804",
+        "name": "Name",
+        "parent": "I88:4742;19:993;17:824",
+        "text": "Groupe Rosa",
+        "font": 16,
+        "width": 98,
+        "height": 22,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4743",
+    "name": "03 — Concevoir Convertir Scaler",
+    "width": 1280,
+    "height": 660,
+    "nodes": [
+      {
+        "id": "I88:4747;84:2702",
+        "name": "Number",
+        "parent": "88:4747",
+        "text": "01",
+        "font": 116,
+        "width": 128,
+        "height": 128,
+        "images": []
+      },
+      {
+        "id": "88:4749",
+        "name": "Heading",
+        "parent": "88:4748",
+        "text": "Concevoir. Convertir. \nScaler.",
+        "font": 68,
+        "width": 460,
+        "height": 219,
+        "images": []
+      },
+      {
+        "id": "I88:4751;18:909",
+        "name": "Value",
+        "parent": "88:4751",
+        "text": "Rechercher un projet, un secteur...",
+        "font": 14,
+        "width": 365,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4752;13:623",
+        "name": "Label",
+        "parent": "88:4752",
+        "text": "Go",
+        "font": 16,
+        "width": 21,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4754;17:877",
+        "name": "Overlay",
+        "parent": "88:4754",
+        "font": null,
+        "width": 352,
+        "height": 448,
+        "images": ["5e0c94f443d051c10409e54bd0c1546b0de86f0c"]
+      },
+      {
+        "id": "I88:4754;17:880",
+        "name": "Category",
+        "parent": "I88:4754;17:879",
+        "text": "Sélectionné",
+        "font": 8.800000190734863,
+        "width": 62,
+        "height": 11,
+        "images": []
+      },
+      {
+        "id": "I88:4754;17:881",
+        "name": "Title",
+        "parent": "I88:4754;17:879",
+        "text": "SaaS & App",
+        "font": 23.040000915527344,
+        "width": 123,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4754;17:883",
+        "name": "Number",
+        "parent": "I88:4754;17:882",
+        "text": "04",
+        "font": 35.20000076293945,
+        "width": 44,
+        "height": 35,
+        "images": []
+      },
+      {
+        "id": "I88:4754;17:884",
+        "name": "Label",
+        "parent": "I88:4754;17:882",
+        "text": "Projets",
+        "font": 8.800000190734863,
+        "width": 41,
+        "height": 11,
+        "images": []
+      },
+      {
+        "id": "88:4755",
+        "name": "CarouselCard",
+        "parent": "88:4753",
+        "font": null,
+        "width": 142.1999969482422,
+        "height": 442.4000244140625,
+        "images": ["b626bf82ca2f587835ccc1225be05c81cb85324c"]
+      },
+      {
+        "id": "I88:4755;17:887",
+        "name": "Label",
+        "parent": "88:4755",
+        "text": "Landing\npage",
+        "font": 17.380001068115234,
+        "width": 68,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "88:4756",
+        "name": "CarouselCard",
+        "parent": "88:4753",
+        "font": null,
+        "width": 150.10000610351562,
+        "height": 442.4000244140625,
+        "images": ["c6b28aaf5d0e85219b376af3bc3dcad6ee7e7639"]
+      },
+      {
+        "id": "I88:4756;17:887",
+        "name": "Label",
+        "parent": "88:4756",
+        "text": "Sites \nWeb",
+        "font": 17.380001068115234,
+        "width": 47,
+        "height": 42,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4757",
+    "name": "04 — Profils",
+    "width": 1280,
+    "height": 803,
+    "nodes": [
+      {
+        "id": "I88:4759;16:672;16:665",
+        "name": "Text",
+        "parent": "I88:4759;16:672",
+        "text": "Pour qui je travaille",
+        "font": 13,
+        "width": 118,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4759;16:675",
+        "name": "Heading",
+        "parent": "88:4759",
+        "text": "Trois profils. \nUn seul objectif : convertir.",
+        "font": 36,
+        "width": 560,
+        "height": 76,
+        "images": []
+      },
+      {
+        "id": "I88:4761;88:5658",
+        "name": "Numéro",
+        "parent": "I88:4761;88:5657",
+        "text": "01",
+        "font": 44,
+        "width": 49,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4761;88:5661",
+        "name": "Title",
+        "parent": "88:4761",
+        "text": "Entreprises & Fondateurs",
+        "font": 26,
+        "width": 320,
+        "height": 64,
+        "images": []
+      },
+      {
+        "id": "I88:4761;88:5663",
+        "name": "Label",
+        "parent": "I88:4761;88:5662",
+        "text": "LE PROBLÈME",
+        "font": 11,
+        "width": 79,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4761;88:5664",
+        "name": "Text",
+        "parent": "I88:4761;88:5662",
+        "text": "Vous investissez dans la publicité, mais votre page ne suit pas — trop lente, trop confuse, elle laisse filer le budget avant même la conversion. Résultat : un coût d'acquisition qui grimpe, et un onboarding qui perd vos utilisateurs dès les premières minutes.",
+        "font": 15,
+        "width": 323.3333435058594,
+        "height": 138,
+        "images": []
+      },
+      {
+        "id": "I88:4761;88:5667",
+        "name": "Label",
+        "parent": "I88:4761;88:5666",
+        "text": "MA RÉPONSE",
+        "font": 11,
+        "width": 73,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4761;88:5668",
+        "name": "Text",
+        "parent": "I88:4761;88:5666",
+        "text": "Une architecture pensée pour tenir la charge — vitesse, sécurité et parcours utilisateur optimisés pour que chaque euro investi en publicité se transforme en client, pas en visite perdue.",
+        "font": 15,
+        "width": 323.3333435058594,
+        "height": 115,
+        "images": []
+      },
+      {
+        "id": "I88:4762;88:5672",
+        "name": "Numéro",
+        "parent": "I88:4762;88:5671",
+        "text": "02",
+        "font": 44,
+        "width": 56,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4762;88:5675",
+        "name": "Title",
+        "parent": "88:4762",
+        "text": "Consultants & Coach",
+        "font": 26,
+        "width": 322.66668701171875,
+        "height": 64,
+        "images": []
+      },
+      {
+        "id": "I88:4762;88:5677",
+        "name": "Label",
+        "parent": "I88:4762;88:5676",
+        "text": "LE PROBLÈME",
+        "font": 11,
+        "width": 79,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4762;88:5678",
+        "name": "Text",
+        "parent": "I88:4762;88:5676",
+        "text": "Votre expertise est réelle, mais votre présence en ligne ne le reflète pas. Une image trop artisanale, une dépendance à la prospection à froid, des rendez-vous décrochés avec des prospects mal qualifiés qui vous font perdre du temps.",
+        "font": 15,
+        "width": 323.33331298828125,
+        "height": 138,
+        "images": []
+      },
+      {
+        "id": "I88:4762;88:5681",
+        "name": "Label",
+        "parent": "I88:4762;88:5680",
+        "text": "MA RÉPONSE",
+        "font": 11,
+        "width": 73,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4762;88:5682",
+        "name": "Text",
+        "parent": "I88:4762;88:5680",
+        "text": "Un site qui installe votre légitimité au premier regard, et un système de qualification qui filtre les bons prospects avant même le premier appel — pour que vous ne parliez qu'à ceux qui sont prêts à signer.",
+        "font": 15,
+        "width": 323.33331298828125,
+        "height": 115,
+        "images": []
+      },
+      {
+        "id": "I88:4763;88:5686",
+        "name": "Numéro",
+        "parent": "I88:4763;88:5685",
+        "text": "03",
+        "font": 44,
+        "width": 55,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4763;88:5689",
+        "name": "Title",
+        "parent": "88:4763",
+        "text": "Créateurs & \nSolopreneurs",
+        "font": 26,
+        "width": 325.33331298828125,
+        "height": 64,
+        "images": []
+      },
+      {
+        "id": "I88:4763;88:5691",
+        "name": "Label",
+        "parent": "I88:4763;88:5690",
+        "text": "LE PROBLÈME",
+        "font": 11,
+        "width": 79,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4763;88:5692",
+        "name": "Text",
+        "parent": "I88:4763;88:5690",
+        "text": "Votre audience grandit, mais elle reste prisonnière des plateformes fermées — commissions élevées, design imposé, aucun contrôle sur vos données ni sur votre offre. Chaque lancement repart de zéro.",
+        "font": 15,
+        "width": 323.3333435058594,
+        "height": 115,
+        "images": []
+      },
+      {
+        "id": "I88:4763;88:5695",
+        "name": "Label",
+        "parent": "I88:4763;88:5694",
+        "text": "MA RÉPONSE",
+        "font": 11,
+        "width": 73,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4763;88:5696",
+        "name": "Text",
+        "parent": "I88:4763;88:5694",
+        "text": "Votre propre écosystème, pensé pour durer — un tunnel de vente automatisé qui travaille 24/7 et une base de contacts qui vous appartient, réutilisable à chaque nouveau lancement.",
+        "font": 15,
+        "width": 323.3333435058594,
+        "height": 115,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4764",
+    "name": "05 — Services",
+    "width": 1280,
+    "height": 901,
+    "nodes": [
+      {
+        "id": "I88:4769;16:665",
+        "name": "Text",
+        "parent": "88:4769",
+        "text": "Services",
+        "font": 13,
+        "width": 54,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "88:4770",
+        "name": "Heading",
+        "parent": "88:4768",
+        "text": "Chaque service, un seul objectif : convertir.",
+        "font": 48,
+        "width": 600,
+        "height": 96,
+        "images": []
+      },
+      {
+        "id": "88:4771",
+        "name": "Description",
+        "parent": "88:4767",
+        "text": "Cinq compétences, un seul système, pensé pour transformer votre trafic en clients.",
+        "font": 16,
+        "width": 340,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4773;88:5910",
+        "name": "Image",
+        "parent": "I88:4773;92:6545",
+        "font": null,
+        "width": 392,
+        "height": 334,
+        "images": ["f7e973b2642322ddafd8e25c426007d79e43d380"]
+      },
+      {
+        "id": "I88:4773;88:5910;16:704",
+        "name": "Image",
+        "parent": "I88:4773;88:5910",
+        "text": "",
+        "font": 12,
+        "width": 0,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4773;88:5911",
+        "name": "Title",
+        "parent": "I88:4773;92:6545",
+        "text": "Landing Page & Tunnel de vente",
+        "font": 32,
+        "width": 360,
+        "height": 86,
+        "images": []
+      },
+      {
+        "id": "I88:4773;88:5912",
+        "name": "Description",
+        "parent": "I88:4773;92:6545",
+        "text": "Une page qui convertit dès la première visite, avec capture de leads intégrée.",
+        "font": 15,
+        "width": 360,
+        "height": 44,
+        "images": []
+      },
+      {
+        "id": "I88:4773;88:5914;88:4644",
+        "name": "Logo — Figma",
+        "parent": "I88:4773;88:5914",
+        "font": null,
+        "width": 26,
+        "height": 26,
+        "images": ["f28985bfe121cb417550b1240bc9658ca9d9fd99"]
+      },
+      {
+        "id": "I88:4773;88:5915;88:4642",
+        "name": "Logo — Next.js",
+        "parent": "I88:4773;88:5915",
+        "font": null,
+        "width": 26,
+        "height": 26,
+        "images": ["3d0c09072dd6bd398edaba4d49551aa63817681b"]
+      },
+      {
+        "id": "I88:4773;88:5916;13:618",
+        "name": "Label",
+        "parent": "I88:4773;88:5916",
+        "text": "Get in touch",
+        "font": 14,
+        "width": 82,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "I88:4775;88:5919",
+        "name": "Title",
+        "parent": "88:4775",
+        "text": " SaaS sur mesure",
+        "font": 28,
+        "width": 290,
+        "height": 38,
+        "images": []
+      },
+      {
+        "id": "I88:4775;88:5920",
+        "name": "Description",
+        "parent": "88:4775",
+        "text": "Un produit pensé de bout en bout : parcours utilisateur, architecture sécurisée, fonctionnalités qui comptent.",
+        "font": 15,
+        "width": 290,
+        "height": 66,
+        "images": []
+      },
+      {
+        "id": "I88:4775;88:5922;88:4640",
+        "name": "Logo — React",
+        "parent": "I88:4775;88:5922",
+        "font": null,
+        "width": 26,
+        "height": 26,
+        "images": ["d2c874a0898cfa43b4cfdae9952418f64b7a51b9"]
+      },
+      {
+        "id": "I88:4775;88:5923;88:4642",
+        "name": "Logo — Next.js",
+        "parent": "I88:4775;88:5923",
+        "font": null,
+        "width": 26,
+        "height": 26,
+        "images": ["3d0c09072dd6bd398edaba4d49551aa63817681b"]
+      },
+      {
+        "id": "I88:4775;88:5924;88:4635",
+        "name": "Logo — Supabase",
+        "parent": "I88:4775;88:5924",
+        "font": null,
+        "width": 114,
+        "height": 24,
+        "images": ["b0f0f0c27a929959492e0c2f833b8195ffd4e71a"]
+      },
+      {
+        "id": "I88:4775;88:5925",
+        "name": "Image",
+        "parent": "88:4775",
+        "font": null,
+        "width": 340,
+        "height": 250,
+        "images": ["29c33ca44c5dd8608b20fb457912496e56417fb2"]
+      },
+      {
+        "id": "I88:4775;88:5925;16:704",
+        "name": "Image",
+        "parent": "I88:4775;88:5925",
+        "text": "",
+        "font": 12,
+        "width": 0,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4777;88:5929",
+        "name": "Image",
+        "parent": "88:4777",
+        "font": null,
+        "width": 308,
+        "height": 156,
+        "images": ["e1bb02169f227f1cf6c1e436c8f0a3e39a9a251d"]
+      },
+      {
+        "id": "I88:4777;88:5929;16:704",
+        "name": "Image",
+        "parent": "I88:4777;88:5929",
+        "text": "Image",
+        "font": 12,
+        "width": 34,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4777;88:5930",
+        "name": "Title",
+        "parent": "88:4777",
+        "text": "Site Web",
+        "font": 26,
+        "width": 270,
+        "height": 35,
+        "images": []
+      },
+      {
+        "id": "I88:4777;88:5931",
+        "name": "Description",
+        "parent": "88:4777",
+        "text": "Vitrine ou plateforme avancée, optimisée pour la vitesse et le référencement. ",
+        "font": 15,
+        "width": 292,
+        "height": 88,
+        "images": []
+      },
+      {
+        "id": "I88:4777;88:5933;88:4644",
+        "name": "Logo — Figma",
+        "parent": "I88:4777;88:5933",
+        "font": null,
+        "width": 26,
+        "height": 26,
+        "images": ["f28985bfe121cb417550b1240bc9658ca9d9fd99"]
+      },
+      {
+        "id": "I88:4777;88:5934;88:4642",
+        "name": "Logo — Next.js",
+        "parent": "I88:4777;88:5934",
+        "font": null,
+        "width": 26,
+        "height": 26,
+        "images": ["3d0c09072dd6bd398edaba4d49551aa63817681b"]
+      },
+      {
+        "id": "I88:4779;88:5938",
+        "name": "Title",
+        "parent": "88:4779",
+        "text": "Acquisition - SEO & Publicité",
+        "font": 23,
+        "width": 270,
+        "height": 62,
+        "images": []
+      },
+      {
+        "id": "I88:4779;88:5939",
+        "name": "Description",
+        "parent": "88:4779",
+        "text": "Amener le bon trafic dans le système, pas juste du volume.",
+        "font": 15,
+        "width": 280,
+        "height": 44,
+        "images": []
+      },
+      {
+        "id": "I88:4780;88:5943",
+        "name": "Title",
+        "parent": "88:4780",
+        "text": "Automatisations & Agents IA",
+        "font": 23,
+        "width": 270,
+        "height": 62,
+        "images": []
+      },
+      {
+        "id": "I88:4780;88:5944",
+        "name": "Description",
+        "parent": "88:4780",
+        "text": "Relances, qualification, service client — automatisés pour ne rien laisser filer.",
+        "font": 15,
+        "width": 280,
+        "height": 44,
+        "images": []
+      },
+      {
+        "id": "I88:4780;88:5946;88:4646",
+        "name": "Logo — n8n",
+        "parent": "I88:4780;88:5946",
+        "font": null,
+        "width": 48,
+        "height": 20,
+        "images": ["526eeec328ce7e8149c59e2d8a8111a6b0dbe255"]
+      },
+      {
+        "id": "99:3559",
+        "name": "const",
+        "parent": "99:3560",
+        "text": "const",
+        "font": 24,
+        "width": 72,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3561",
+        "name": "services",
+        "parent": "99:3562",
+        "text": "services",
+        "font": 24,
+        "width": 116,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3563",
+        "name": "=",
+        "parent": "99:3564",
+        "text": "=",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3565",
+        "name": "`",
+        "parent": "99:3566",
+        "text": "`",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3567",
+        "name": "Heading / h2",
+        "parent": "99:3568",
+        "text": "Chaque service,\nun seul objectif : convertir.",
+        "font": 48,
+        "width": 600,
+        "height": 96,
+        "images": []
+      },
+      {
+        "id": "99:3570",
+        "name": "`",
+        "parent": "99:3571",
+        "text": "`",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3572",
+        "name": ";",
+        "parent": "99:3573",
+        "text": ";",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4781",
+    "name": "06 — Ce que je construis concrètement",
+    "width": 1280,
+    "height": 1637,
+    "nodes": [
+      {
+        "id": "I88:4784;88:5700",
+        "name": "Image",
+        "parent": "88:4784",
+        "font": null,
+        "width": 786,
+        "height": 580,
+        "images": ["619492a4ce42393b699d0adb02d4123003f30bec"]
+      },
+      {
+        "id": "I88:4784;88:5703",
+        "name": "Title",
+        "parent": "I88:4784;88:5702",
+        "text": "Outils métier sur mesure",
+        "font": 34,
+        "width": 306,
+        "height": 80,
+        "images": []
+      },
+      {
+        "id": "I88:4784;88:6432",
+        "name": "Description — solution",
+        "parent": "I88:4784;88:5702",
+        "text": "Des applications adaptées à vos processus pour centraliser les données, automatiser les tâches et piloter votre activité.",
+        "font": 16,
+        "width": 306,
+        "height": 96,
+        "images": []
+      },
+      {
+        "id": "I88:4784;88:5704",
+        "name": "Category",
+        "parent": "I88:4784;88:5702",
+        "text": "Application web",
+        "font": 12,
+        "width": 102,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4784;88:5707;84:2702",
+        "name": "Number",
+        "parent": "I88:4784;88:5707",
+        "text": "01",
+        "font": 116,
+        "width": 128,
+        "height": 128,
+        "images": []
+      },
+      {
+        "id": "I88:4786;88:5711",
+        "name": "Image",
+        "parent": "88:4786",
+        "font": null,
+        "width": 540,
+        "height": 405,
+        "images": ["c6b28aaf5d0e85219b376af3bc3dcad6ee7e7639"]
+      },
+      {
+        "id": "I88:4786;88:5714",
+        "name": "Title",
+        "parent": "I88:4786;88:5713",
+        "text": "Plateformes web",
+        "font": 30,
+        "width": 492,
+        "height": 35,
+        "images": []
+      },
+      {
+        "id": "I88:4786;88:6433",
+        "name": "Description — solution",
+        "parent": "I88:4786;88:5713",
+        "text": "Des plateformes structurées pour gérer vos contenus, vos services, vos membres ou vos clients depuis une seule interface.",
+        "font": 16,
+        "width": 492,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4786;88:5715",
+        "name": "Category",
+        "parent": "I88:4786;88:5713",
+        "text": "Plateforme digitale",
+        "font": 12,
+        "width": 122,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4786;88:5718;84:2702",
+        "name": "Number",
+        "parent": "I88:4786;88:5718",
+        "text": "02",
+        "font": 62,
+        "width": 78,
+        "height": 68,
+        "images": []
+      },
+      {
+        "id": "I88:4787;88:5722",
+        "name": "Image",
+        "parent": "I88:4787;92:6551",
+        "font": null,
+        "width": 540,
+        "height": 405,
+        "images": ["a22331dbb51e427247457c26411bed3e2a744c9d"]
+      },
+      {
+        "id": "I88:4787;88:5725",
+        "name": "Title",
+        "parent": "I88:4787;88:5724",
+        "text": "Dashboards & pilotage",
+        "font": 30,
+        "width": 492,
+        "height": 35,
+        "images": []
+      },
+      {
+        "id": "I88:4787;88:6434",
+        "name": "Description — solution",
+        "parent": "I88:4787;88:5724",
+        "text": "Des tableaux de bord clairs pour suivre vos indicateurs, comprendre vos résultats et décider plus vite.",
+        "font": 16,
+        "width": 492,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4787;88:5726",
+        "name": "Category",
+        "parent": "I88:4787;88:5724",
+        "text": "Data & performance",
+        "font": 12,
+        "width": 126,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4787;88:5729;84:2702",
+        "name": "Number",
+        "parent": "I88:4787;88:5729",
+        "text": "03",
+        "font": 62,
+        "width": 77,
+        "height": 68,
+        "images": []
+      },
+      {
+        "id": "I88:4789;16:672;16:665",
+        "name": "Text",
+        "parent": "I88:4789;16:672",
+        "text": "Solutions",
+        "font": 13,
+        "width": 60,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4789;16:675",
+        "name": "Heading",
+        "parent": "88:4789",
+        "text": "Ce que je construis\nconcrètement.",
+        "font": 48,
+        "width": 560,
+        "height": 108,
+        "images": []
+      },
+      {
+        "id": "88:4791",
+        "name": "Description",
+        "parent": "88:4790",
+        "text": "Des interfaces prêtes à être utilisées, pensées pour simplifier vos opérations et soutenir votre croissance.",
+        "font": 17,
+        "width": 480,
+        "height": 52,
+        "images": []
+      },
+      {
+        "id": "I88:4792;13:638",
+        "name": "Label",
+        "parent": "88:4792",
+        "text": "Get in touch",
+        "font": 16,
+        "width": 91,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4793;13:618",
+        "name": "Label",
+        "parent": "88:4793",
+        "text": "Get in touch",
+        "font": 14,
+        "width": 82,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "99:3577",
+        "name": "const",
+        "parent": "99:3578",
+        "text": "const",
+        "font": 24,
+        "width": 72,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3579",
+        "name": "solutions",
+        "parent": "99:3580",
+        "text": "solutions",
+        "font": 24,
+        "width": 130,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3581",
+        "name": "=",
+        "parent": "99:3582",
+        "text": "=",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3583",
+        "name": "`",
+        "parent": "99:3584",
+        "text": "`",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3585",
+        "name": "Heading / h2",
+        "parent": "99:3586",
+        "text": "Ce que je construis\nconcrètement.",
+        "font": 48,
+        "width": 560,
+        "height": 108,
+        "images": []
+      },
+      {
+        "id": "99:3588",
+        "name": "`",
+        "parent": "99:3589",
+        "text": "`",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3590",
+        "name": ";",
+        "parent": "99:3591",
+        "text": ";",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4794",
+    "name": "07 — Love Building",
+    "width": 1280,
+    "height": 853,
+    "nodes": [
+      {
+        "id": "I88:4796;16:665",
+        "name": "Text",
+        "parent": "88:4796",
+        "text": "À propos de moi",
+        "font": 13,
+        "width": 99,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5733",
+        "name": "Editorial / BUILD",
+        "parent": "88:4797",
+        "text": "BUILD",
+        "font": 128,
+        "width": 367,
+        "height": 141,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5736",
+        "name": "Title",
+        "parent": "I88:4797;88:5735",
+        "text": "Love Building",
+        "font": 64,
+        "width": 500,
+        "height": 70,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5737",
+        "name": "Description",
+        "parent": "I88:4797;88:5735",
+        "text": "Je suis développeur logiciel, entrepreneur et cofondateur de Content Sprint. Depuis quatre ans, je travaille sur différents projets pour des entreprises au Togo et à l’international.\n\nJe conçois des solutions digitales — de la landing page aux applications — avec une approche centrée sur les résultats, l’impact et l’adaptabilité à différents contextes.\nMon parcours en développement et en marketing me permet d’aborder chaque projet sous un angle à la fois technique, stratégique et utilisateur. J’accorde une attention particulière à l’expérience d’utilisation, à la performance et à la sécurité.\n\nJ’intègre également le suivi des données et le tracking afin de mesurer les résultats, gagner en clarté et prendre de meilleures décisions. Mon objectif est de transformer les besoins des entreprises en solutions numériques utiles, performantes et capables de produire un impact concret.",
+        "font": 16,
+        "width": 500,
+        "height": 438,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5739;88:4626",
+        "name": "Logo — React",
+        "parent": "I88:4797;88:5739",
+        "font": null,
+        "width": 28,
+        "height": 28,
+        "images": ["d2c874a0898cfa43b4cfdae9952418f64b7a51b9"]
+      },
+      {
+        "id": "I88:4797;88:5739;88:4627",
+        "name": "React",
+        "parent": "I88:4797;88:5739",
+        "text": "React",
+        "font": 14,
+        "width": 40,
+        "height": 19,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5740;88:4629",
+        "name": "Logo — Next.js",
+        "parent": "I88:4797;88:5740",
+        "font": null,
+        "width": 26,
+        "height": 26,
+        "images": ["3d0c09072dd6bd398edaba4d49551aa63817681b"]
+      },
+      {
+        "id": "I88:4797;88:5740;88:4630",
+        "name": "Next.js",
+        "parent": "I88:4797;88:5740",
+        "text": "Next.js",
+        "font": 14,
+        "width": 47,
+        "height": 19,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5741;88:4632",
+        "name": "Logo — Figma",
+        "parent": "I88:4797;88:5741",
+        "font": null,
+        "width": 24,
+        "height": 28,
+        "images": ["f28985bfe121cb417550b1240bc9658ca9d9fd99"]
+      },
+      {
+        "id": "I88:4797;88:5741;88:4633",
+        "name": "Figma",
+        "parent": "I88:4797;88:5741",
+        "text": "Figma",
+        "font": 14,
+        "width": 40,
+        "height": 19,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5742;88:4635",
+        "name": "Logo — Supabase",
+        "parent": "I88:4797;88:5742",
+        "font": null,
+        "width": 114,
+        "height": 24,
+        "images": ["b0f0f0c27a929959492e0c2f833b8195ffd4e71a"]
+      },
+      {
+        "id": "I88:4797;88:5743;88:4637",
+        "name": "Logo — n8n",
+        "parent": "I88:4797;88:5743",
+        "font": null,
+        "width": 54,
+        "height": 24,
+        "images": ["526eeec328ce7e8149c59e2d8a8111a6b0dbe255"]
+      },
+      {
+        "id": "I88:4797;88:5743;88:4638",
+        "name": "Automation",
+        "parent": "I88:4797;88:5743",
+        "text": "Automation",
+        "font": 13,
+        "width": 74,
+        "height": 18,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5744;17:804",
+        "name": "Name",
+        "parent": "I88:4797;88:5744",
+        "text": "Node js",
+        "font": 16,
+        "width": 57,
+        "height": 22,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5745;13:618",
+        "name": "Label",
+        "parent": "I88:4797;88:5745",
+        "text": "Me contacter",
+        "font": 14,
+        "width": 90,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "I88:4797;88:5746",
+        "name": "Image",
+        "parent": "88:4797",
+        "font": null,
+        "width": 520,
+        "height": 650,
+        "images": ["f522e3ef20be8dd546dc5bcd85c38b98c5bd897d"]
+      },
+      {
+        "id": "I88:4797;88:5746;16:704",
+        "name": "Image",
+        "parent": "I88:4797;88:5746",
+        "text": "",
+        "font": 12,
+        "width": 0,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "92:6527",
+        "name": "3D — Accent chromé About / PNG original",
+        "parent": "88:4794",
+        "font": null,
+        "width": 180,
+        "height": 159.9699249267578,
+        "images": ["c6016b055dbd2b3c0e238a6bf2c8740797b9bbf1"]
+      }
+    ]
+  },
+  {
+    "id": "88:4798",
+    "name": "08 — Études de cas",
+    "width": 1280,
+    "height": 1487,
+    "nodes": [
+      {
+        "id": "I88:4801;16:672;16:665",
+        "name": "Text",
+        "parent": "I88:4801;16:672",
+        "text": "Études de cas",
+        "font": 13,
+        "width": 87,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4801;16:675",
+        "name": "Heading",
+        "parent": "88:4801",
+        "text": "Projets sélectionnés, \nrésultats réels.",
+        "font": 36,
+        "width": 560,
+        "height": 76,
+        "images": []
+      },
+      {
+        "id": "I88:4802;88:5750",
+        "name": "Capture projet / image originale",
+        "parent": "I88:4802;92:6557",
+        "font": null,
+        "width": 782,
+        "height": 586.5,
+        "images": ["33159bf53a92b24a09a9817b16a0f0e6fbdab336"]
+      },
+      {
+        "id": "I88:4802;88:5754",
+        "name": "Category",
+        "parent": "I88:4802;88:5753",
+        "text": "Études de cas 01",
+        "font": 11,
+        "width": 310,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4802;88:5755",
+        "name": "Title",
+        "parent": "I88:4802;88:5753",
+        "text": "Content Sprint",
+        "font": 38,
+        "width": 310,
+        "height": 43,
+        "images": []
+      },
+      {
+        "id": "I88:4802;88:5756",
+        "name": "Description",
+        "parent": "I88:4802;88:5753",
+        "text": "De 0 à 1 500+ utilisateurs, propulsé par un système de lancement automatisé.",
+        "font": 16,
+        "width": 310,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4802;88:5759;84:2702",
+        "name": "Number",
+        "parent": "I88:4802;88:5759",
+        "text": "01",
+        "font": 116,
+        "width": 128,
+        "height": 128,
+        "images": []
+      },
+      {
+        "id": "I88:4804;88:5763",
+        "name": "Capture projet / image originale",
+        "parent": "88:4804",
+        "font": null,
+        "width": 540,
+        "height": 406,
+        "images": ["bf242392c05e7df2d9ee46324b0aadf40370c972"]
+      },
+      {
+        "id": "I88:4804;88:5767",
+        "name": "Category",
+        "parent": "I88:4804;88:5766",
+        "text": "Études de cas 02",
+        "font": 11,
+        "width": 450,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4804;88:5768",
+        "name": "Title",
+        "parent": "I88:4804;88:5766",
+        "text": "Club Croissance \nBusiness",
+        "font": 32,
+        "width": 450,
+        "height": 72,
+        "images": []
+      },
+      {
+        "id": "I88:4804;88:5769",
+        "name": "Description",
+        "parent": "I88:4804;88:5766",
+        "text": "100+ ventes en un mois, 100 % organique, sans publicité.",
+        "font": 16,
+        "width": 450,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4804;88:5772;84:2702",
+        "name": "Number",
+        "parent": "I88:4804;88:5772",
+        "text": "02",
+        "font": 64,
+        "width": 81,
+        "height": 70,
+        "images": []
+      },
+      {
+        "id": "I88:4805;88:5776",
+        "name": "Capture projet / image originale",
+        "parent": "88:4805",
+        "font": null,
+        "width": 540,
+        "height": 406,
+        "images": ["74ecc6068f7f6bb435e5a0555f0d3f8da670ed08"]
+      },
+      {
+        "id": "I88:4805;88:5780",
+        "name": "Category",
+        "parent": "I88:4805;88:5779",
+        "text": "Études de cas 03",
+        "font": 11,
+        "width": 450,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4805;88:5781",
+        "name": "Title",
+        "parent": "I88:4805;88:5779",
+        "text": "CGTK",
+        "font": 32,
+        "width": 450,
+        "height": 36,
+        "images": []
+      },
+      {
+        "id": "I88:4805;88:5782",
+        "name": "Description",
+        "parent": "I88:4805;88:5779",
+        "text": "2 000+ visiteurs mensuels, un article générant à lui seul plus de 1 000 trafics/mois.",
+        "font": 16,
+        "width": 450,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "I88:4805;88:5785;84:2702",
+        "name": "Number",
+        "parent": "I88:4805;88:5785",
+        "text": "03",
+        "font": 64,
+        "width": 80,
+        "height": 70,
+        "images": []
+      },
+      {
+        "id": "99:3595",
+        "name": "const",
+        "parent": "99:3596",
+        "text": "const",
+        "font": 24,
+        "width": 72,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3597",
+        "name": "projets",
+        "parent": "99:3598",
+        "text": "projets",
+        "font": 24,
+        "width": 101,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3599",
+        "name": "=",
+        "parent": "99:3600",
+        "text": "=",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3601",
+        "name": "`",
+        "parent": "99:3602",
+        "text": "`",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3603",
+        "name": "Heading / h2",
+        "parent": "99:3604",
+        "text": "Projets sélectionnés, \nrésultats réels.",
+        "font": 36,
+        "width": 560,
+        "height": 76,
+        "images": []
+      },
+      {
+        "id": "99:3606",
+        "name": "`",
+        "parent": "99:3607",
+        "text": "`",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3608",
+        "name": ";",
+        "parent": "99:3609",
+        "text": ";",
+        "font": 24,
+        "width": 15,
+        "height": 30,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4806",
+    "name": "09 — Approche",
+    "width": 1280,
+    "height": 831,
+    "nodes": [
+      {
+        "id": "88:4808",
+        "name": "Decorative / PROCESS",
+        "parent": "88:4807",
+        "text": "PROCESS",
+        "font": 164,
+        "width": 770,
+        "height": 180,
+        "images": []
+      },
+      {
+        "id": "88:4810",
+        "name": "MON APPROCHE",
+        "parent": "88:4809",
+        "text": "MON APPROCHE",
+        "font": 11,
+        "width": 91,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "88:4811",
+        "name": "Une méthode claire, du besoin aux résultats",
+        "parent": "88:4809",
+        "text": "Une méthode claire, \ndu besoin aux résultats",
+        "font": 48,
+        "width": 522,
+        "height": 96,
+        "images": []
+      },
+      {
+        "id": "88:4812",
+        "name": "Chaque projet avance autour d’un objectif précis, avec des décisions fondées sur vos utilisateurs, vos priorités et les résultats attendus.",
+        "parent": "88:4809",
+        "text": "Chaque projet avance autour d’un objectif précis, avec des décisions fondées sur vos utilisateurs, vos priorités et les résultats attendus.",
+        "font": 16,
+        "width": 480,
+        "height": 72,
+        "images": []
+      },
+      {
+        "id": "88:4815",
+        "name": "Image",
+        "parent": "88:4814",
+        "font": null,
+        "width": 400,
+        "height": 440,
+        "images": ["5b90fce4e53e098ead9ba0507a3a9f78b4a916a2"]
+      },
+      {
+        "id": "I88:4815;16:704",
+        "name": "Image",
+        "parent": "88:4815",
+        "text": "",
+        "font": 12,
+        "width": 0,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "88:4817",
+        "name": "Démarrer mon projet",
+        "parent": "88:4816",
+        "text": "Démarrer mon projet",
+        "font": 13,
+        "width": 129,
+        "height": 18,
+        "images": []
+      },
+      {
+        "id": "88:4819",
+        "name": "Project Brief",
+        "parent": "88:4818",
+        "text": "Project Brief",
+        "font": 15,
+        "width": 91,
+        "height": 20,
+        "images": []
+      },
+      {
+        "id": "I88:4831;88:5792",
+        "name": "Étape",
+        "parent": "I88:4831;88:5788",
+        "text": "01",
+        "font": 52,
+        "width": 58,
+        "height": 56,
+        "images": []
+      },
+      {
+        "id": "I88:4831;88:5795",
+        "name": "Title",
+        "parent": "I88:4831;88:5794",
+        "text": "Comprendre et cadrer",
+        "font": 27,
+        "width": 612,
+        "height": 32,
+        "images": []
+      },
+      {
+        "id": "I88:4831;88:5796",
+        "name": "Description",
+        "parent": "I88:4831;88:5794",
+        "text": "Nous clarifions votre offre, votre cible, vos objectifs et les difficultés actuelles afin de définir la solution réellement nécessaire.",
+        "font": 16,
+        "width": 612,
+        "height": 50,
+        "images": []
+      },
+      {
+        "id": "I88:4832;88:5803",
+        "name": "Étape",
+        "parent": "I88:4832;88:5799",
+        "text": "02",
+        "font": 52,
+        "width": 66,
+        "height": 56,
+        "images": []
+      },
+      {
+        "id": "I88:4832;88:5806",
+        "name": "Title",
+        "parent": "I88:4832;88:5805",
+        "text": "Concevoir et développer",
+        "font": 27,
+        "width": 612,
+        "height": 32,
+        "images": []
+      },
+      {
+        "id": "I88:4832;88:5807",
+        "name": "Description",
+        "parent": "I88:4832;88:5805",
+        "text": "Je structure le parcours, le message et l’expérience avant de développer une solution rapide, intuitive et adaptée à votre activité.",
+        "font": 16,
+        "width": 612,
+        "height": 50,
+        "images": []
+      },
+      {
+        "id": "I88:4833;88:5814",
+        "name": "Étape",
+        "parent": "I88:4833;88:5810",
+        "text": "03",
+        "font": 52,
+        "width": 65,
+        "height": 56,
+        "images": []
+      },
+      {
+        "id": "I88:4833;88:5816",
+        "name": "Title",
+        "parent": "I88:4833;88:5815",
+        "text": "Lancer, mesurer et améliorer",
+        "font": 27,
+        "width": 612,
+        "height": 32,
+        "images": []
+      },
+      {
+        "id": "I88:4833;88:5817",
+        "name": "Description",
+        "parent": "I88:4833;88:5815",
+        "text": "Après la mise en ligne, les actions importantes sont suivies pour mesurer les résultats, identifier les points de friction et guider les prochaines optimisations.",
+        "font": 16,
+        "width": 612,
+        "height": 50,
+        "images": []
+      },
+      {
+        "id": "99:3613",
+        "name": "const",
+        "parent": "99:3614",
+        "text": "const",
+        "font": 20,
+        "width": 60,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3615",
+        "name": "methode",
+        "parent": "99:3616",
+        "text": "methode",
+        "font": 20,
+        "width": 84,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3617",
+        "name": "=",
+        "parent": "99:3618",
+        "text": "=",
+        "font": 20,
+        "width": 12,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3619",
+        "name": "`",
+        "parent": "99:3620",
+        "text": "`",
+        "font": 20,
+        "width": 12,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3621",
+        "name": "Heading / h2",
+        "parent": "99:3622",
+        "text": "Une méthode claire, \ndu besoin aux résultats",
+        "font": 48,
+        "width": 522,
+        "height": 96,
+        "images": []
+      },
+      {
+        "id": "99:3624",
+        "name": "`",
+        "parent": "99:3625",
+        "text": "`",
+        "font": 20,
+        "width": 12,
+        "height": 30,
+        "images": []
+      },
+      {
+        "id": "99:3626",
+        "name": ";",
+        "parent": "99:3627",
+        "text": ";",
+        "font": 20,
+        "width": 12,
+        "height": 30,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4834",
+    "name": "10 — Offres",
+    "width": 1280,
+    "height": 1071,
+    "nodes": [
+      {
+        "id": "I88:4839;88:5821",
+        "name": "Name",
+        "parent": "I88:4839;88:5820",
+        "text": "Audit Conversion \n& Performance",
+        "font": 24,
+        "width": 323.3333435058594,
+        "height": 58,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5822",
+        "name": "Description",
+        "parent": "I88:4839;88:5820",
+        "text": "Pour identifier ce qui freine les résultats de votre page avant d’investir dans une refonte.",
+        "font": 14,
+        "width": 323.3333435058594,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5823",
+        "name": "Price",
+        "parent": "88:4839",
+        "text": "1 000 € à 1 500 €",
+        "font": 30,
+        "width": 323.3333435058594,
+        "height": 36,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5826",
+        "name": "Vous recevez :",
+        "parent": "I88:4839;88:5825",
+        "text": "Vous recevez :",
+        "font": 14,
+        "width": 323.3333435058594,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5829",
+        "name": "L’analyse de votre besoin et de votre offre",
+        "parent": "I88:4839;88:5827",
+        "text": "L’analyse de votre besoin et de votre offre",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5832",
+        "name": "L’audit de l’expérience mobile et du parcours utilisateur",
+        "parent": "I88:4839;88:5830",
+        "text": "L’audit de l’expérience mobile et du parcours \nutilisateur",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5835",
+        "name": "L’analyse de la vitesse, du tracking et des points de friction",
+        "parent": "I88:4839;88:5833",
+        "text": "L’analyse de la vitesse, du tracking et des points \nde friction",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 63,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5838",
+        "name": "Un diagnostic vidéo détaillé",
+        "parent": "I88:4839;88:5836",
+        "text": "Un diagnostic vidéo détaillé",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5841",
+        "name": "Un plan d’action priorisé en 10 points",
+        "parent": "I88:4839;88:5839",
+        "text": "Un plan d’action priorisé en 10 points",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4839;88:5848;13:623",
+        "name": "Label",
+        "parent": "I88:4839;88:5848",
+        "text": "Demander mon audit",
+        "font": 16,
+        "width": 154,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5852",
+        "name": "Name",
+        "parent": "I88:4840;88:5851",
+        "text": "Landing Page & Tunnel",
+        "font": 24,
+        "width": 323.33331298828125,
+        "height": 58,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5853",
+        "name": "Description",
+        "parent": "I88:4840;88:5851",
+        "text": "Pour présenter clairement votre offre et transformer davantage de visiteurs en prospects ou en clients.",
+        "font": 14,
+        "width": 323.33331298828125,
+        "height": 63,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5854",
+        "name": "Price",
+        "parent": "88:4840",
+        "text": "3 500 € à 6 000 €",
+        "font": 30,
+        "width": 323.33331298828125,
+        "height": 36,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5857",
+        "name": "Vous recevez :",
+        "parent": "I88:4840;88:5856",
+        "text": "Vous recevez :",
+        "font": 14,
+        "width": 323.33331298828125,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5860",
+        "name": "La structure complète de votre message",
+        "parent": "I88:4840;88:5858",
+        "text": "La structure complète de votre message",
+        "font": 14,
+        "width": 299.33331298828125,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5863",
+        "name": "Développement responsive et intégration technique",
+        "parent": "I88:4840;88:5861",
+        "text": "Développement responsive et intégration technique",
+        "font": 14,
+        "width": 299.33331298828125,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5866",
+        "name": "Un design UX/UI personnalisé et mobile-first",
+        "parent": "I88:4840;88:5864",
+        "text": "Un design UX/UI personnalisé et mobile-first",
+        "font": 14,
+        "width": 299.33331298828125,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5869",
+        "name": "Le développement responsive sur mesure",
+        "parent": "I88:4840;88:5867",
+        "text": "Le développement responsive sur mesure",
+        "font": 14,
+        "width": 299.33331298828125,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5872",
+        "name": "L’intégration du formulaire, du paiement ou de la prise de rendez-vous",
+        "parent": "I88:4840;88:5870",
+        "text": "L’intégration du formulaire, du paiement ou \nde la prise de rendez-vous",
+        "font": 14,
+        "width": 299.33331298828125,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5875",
+        "name": "Le tracking des actions et des conversions importantes",
+        "parent": "I88:4840;88:5873",
+        "text": "Le tracking des actions et des conversions \nimportantes",
+        "font": 14,
+        "width": 299.33331298828125,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4840;88:5876;13:638",
+        "name": "Label",
+        "parent": "I88:4840;88:5876",
+        "text": "Lancer ma landing page",
+        "font": 16,
+        "width": 174,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5880",
+        "name": "Name",
+        "parent": "I88:4841;88:5879",
+        "text": "Application sur mesure",
+        "font": 24,
+        "width": 323.3333435058594,
+        "height": 58,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5881",
+        "name": "Description",
+        "parent": "I88:4841;88:5879",
+        "text": "Pour transformer une idée ou un processus métier en une application fiable, sécurisée et évolutive.",
+        "font": 14,
+        "width": 323.3333435058594,
+        "height": 63,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5882",
+        "name": "Price",
+        "parent": "88:4841",
+        "text": "À partir de 8 000 €",
+        "font": 30,
+        "width": 323.3333435058594,
+        "height": 36,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5885",
+        "name": "Vous recevez :",
+        "parent": "I88:4841;88:5884",
+        "text": "Vous recevez :",
+        "font": 14,
+        "width": 323.3333435058594,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5888",
+        "name": "La définition du périmètre et des fonctionnalités",
+        "parent": "I88:4841;88:5886",
+        "text": "La définition du périmètre et des fonctionnalités",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5891",
+        "name": "La conception de l’expérience utilisateur",
+        "parent": "I88:4841;88:5889",
+        "text": "La conception de l’expérience utilisateur",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5894",
+        "name": "Le développement de l’application et de sa base de données",
+        "parent": "I88:4841;88:5892",
+        "text": "Le développement de l’application et \nde sa base de données",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5897",
+        "name": "L’authentification, l’onboarding et la gestion des accès",
+        "parent": "I88:4841;88:5895",
+        "text": "L’authentification, l’onboarding et la gestion \ndes accès",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5900",
+        "name": "Les paiements, abonnements ou automatisations nécessaires",
+        "parent": "I88:4841;88:5898",
+        "text": "Les paiements, abonnements ou \nautomatisations nécessaires",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5903",
+        "name": "Le tracking, la performance et la sécurisation de la solution",
+        "parent": "I88:4841;88:5901",
+        "text": "Le tracking, la performance et la sécurisation \nde la solution",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 42,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5906",
+        "name": "Un code sur mesure qui vous appartient",
+        "parent": "I88:4841;88:5904",
+        "text": "Un code sur mesure qui vous appartient",
+        "font": 14,
+        "width": 299.3333435058594,
+        "height": 21,
+        "images": []
+      },
+      {
+        "id": "I88:4841;88:5907;13:623",
+        "name": "Label",
+        "parent": "I88:4841;88:5907",
+        "text": "Discuter de mon application",
+        "font": 16,
+        "width": 206,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4843",
+        "name": "Des offres claires, selon votre objectif",
+        "parent": "88:4842",
+        "text": "Des offres claires, \nselon votre objectif",
+        "font": 48,
+        "width": 720,
+        "height": 106,
+        "images": []
+      },
+      {
+        "id": "88:4844",
+        "name": "Chaque formule correspond à un besoin précis et vous permet de savoir exactement ce qui est inclus dès le départ.",
+        "parent": "88:4842",
+        "text": "Chaque formule correspond à un besoin précis et \nvous permet de savoir exactement ce qui est inclus dès le départ.",
+        "font": 16,
+        "width": 680,
+        "height": 48,
+        "images": []
+      },
+      {
+        "id": "88:4845",
+        "name": "Le tarif final dépend du périmètre, des fonctionnalités et des intégrations nécessaires. Un échange initial permet de définir la solution et le budget adaptés à votre projet.",
+        "parent": "88:4836",
+        "text": " Le tarif final dépend du périmètre, des fonctionnalités et des intégrations nécessaires. Un échange initial permet de définir la solution et le budget adaptés à votre projet.",
+        "font": 14,
+        "width": 800,
+        "height": 42,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4846",
+    "name": "11 — Contact",
+    "width": 1280,
+    "height": 760,
+    "nodes": [
+      {
+        "id": "I88:4850;17:847",
+        "name": "Label",
+        "parent": "88:4850",
+        "text": "Contact",
+        "font": 13,
+        "width": 52,
+        "height": 18,
+        "images": []
+      },
+      {
+        "id": "88:4851",
+        "name": "Parlez-moi de votre projet",
+        "parent": "88:4849",
+        "text": "Parlez-moi de \nvotre projet",
+        "font": 64,
+        "width": 500,
+        "height": 138,
+        "images": []
+      },
+      {
+        "id": "88:4852",
+        "name": "Présentez-moi votre besoin, vos objectifs et les difficultés que vous rencontrez. Je vous répondrai avec une première orientation adaptée à votre projet.",
+        "parent": "88:4849",
+        "text": "Présentez-moi votre besoin, vos objectifs et les difficultés que vous rencontrez. Je vous répondrai avec une première orientation adaptée à votre projet.",
+        "font": 18,
+        "width": 446,
+        "height": 81,
+        "images": []
+      },
+      {
+        "id": "I88:4853;13:623",
+        "name": "Label",
+        "parent": "88:4853",
+        "text": "Me contacter",
+        "font": 16,
+        "width": 99,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4855",
+        "name": "Me Contacter",
+        "parent": "88:4854",
+        "text": "Me Contacter",
+        "font": 36,
+        "width": 233,
+        "height": 38,
+        "images": []
+      },
+      {
+        "id": "I88:4857;18:922",
+        "name": "Label",
+        "parent": "88:4857",
+        "text": "Prénom",
+        "font": 13,
+        "width": 51,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4857;18:923;18:909",
+        "name": "Value",
+        "parent": "I88:4857;18:923",
+        "text": "",
+        "font": 16,
+        "width": 408,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4858;18:922",
+        "name": "Label",
+        "parent": "88:4858",
+        "text": "Nom",
+        "font": 13,
+        "width": 30,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4858;18:923;18:909",
+        "name": "Value",
+        "parent": "I88:4858;18:923",
+        "text": "",
+        "font": 16,
+        "width": 408,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4860;18:922",
+        "name": "Label",
+        "parent": "88:4860",
+        "text": "Numéro de téléphone",
+        "font": 13,
+        "width": 144,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4860;18:923;18:909",
+        "name": "Value",
+        "parent": "I88:4860;18:923",
+        "text": "",
+        "font": 16,
+        "width": 408,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4861;18:922",
+        "name": "Label",
+        "parent": "88:4861",
+        "text": "Adresse Email",
+        "font": 13,
+        "width": 93,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4861;18:923;18:909",
+        "name": "Value",
+        "parent": "I88:4861;18:923",
+        "text": "",
+        "font": 16,
+        "width": 408,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4863",
+        "name": "Message",
+        "parent": "88:4862",
+        "text": "Message",
+        "font": 13,
+        "width": 59,
+        "height": 16,
+        "images": []
+      },
+      {
+        "id": "I88:4864;18:915",
+        "name": "Value",
+        "parent": "88:4864",
+        "text": "",
+        "font": 16,
+        "width": 408,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4865;13:623",
+        "name": "Label",
+        "parent": "88:4865",
+        "text": "Envoyer",
+        "font": 16,
+        "width": 59,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4866;84:2688",
+        "name": "Label",
+        "parent": "88:4866",
+        "text": "Disponible pour vos projets",
+        "font": 12,
+        "width": 159,
+        "height": 13,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4867",
+    "name": "12 — FAQ",
+    "width": 1280,
+    "height": 600,
+    "nodes": [
+      {
+        "id": "88:4872",
+        "name": "FAQs",
+        "parent": "88:4870",
+        "text": "FAQs",
+        "font": 13,
+        "width": 32,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "88:4873",
+        "name": "Heading",
+        "parent": "88:4869",
+        "text": "Vos questions, mes réponses",
+        "font": 48,
+        "width": 380,
+        "height": 96,
+        "images": []
+      },
+      {
+        "id": "88:4875",
+        "name": "Avatar",
+        "parent": "88:4874",
+        "font": null,
+        "width": 48,
+        "height": 48,
+        "images": ["2abda46859d36816f7b3764aed44bfb386cf7975"]
+      },
+      {
+        "id": "I88:4875;17:852",
+        "name": "Initials",
+        "parent": "88:4875",
+        "text": "",
+        "font": 13,
+        "width": 0,
+        "height": 18,
+        "images": ["f522e3ef20be8dd546dc5bcd85c38b98c5bd897d"]
+      },
+      {
+        "id": "88:4876",
+        "name": "Book un appel de 15 min",
+        "parent": "88:4874",
+        "text": "Book un appel de 15 min",
+        "font": 28,
+        "width": 313,
+        "height": 31,
+        "images": []
+      },
+      {
+        "id": "88:4877",
+        "name": "Echangeons à propos votre projet pour partir sur de bonne base et atteindre les meilleur résultat à la fin.",
+        "parent": "88:4874",
+        "text": "Echangeons à propos votre projet pour partir sur de bonne base et atteindre les meilleur résultat à la fin.",
+        "font": 14,
+        "width": 300,
+        "height": 60,
+        "images": []
+      },
+      {
+        "id": "I88:4878;13:623",
+        "name": "Label",
+        "parent": "88:4878",
+        "text": "Réserver un appel avec moi",
+        "font": 16,
+        "width": 200,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4880;22:1382",
+        "name": "Question",
+        "parent": "I88:4880;22:1381",
+        "text": "Quels résultats puis-je réellement attendre de votre intervention ?",
+        "font": 17,
+        "width": 560,
+        "height": 26,
+        "images": []
+      },
+      {
+        "id": "I88:4880;22:1385",
+        "name": "Answer",
+        "parent": "88:4880",
+        "text": "I help founders and creators design, build, and ship products — from brand identity to full SaaS platforms.",
+        "font": 15,
+        "width": 636,
+        "height": 46,
+        "images": []
+      },
+      {
+        "id": "I88:4881;22:1377",
+        "name": "Question",
+        "parent": "88:4881",
+        "text": "Dois-je déjà générer du trafic pour travailler avec vous ?",
+        "font": 17,
+        "width": 600,
+        "height": 26,
+        "images": []
+      },
+      {
+        "id": "I88:4882;22:1377",
+        "name": "Question",
+        "parent": "88:4882",
+        "text": "Prenez-vous en charge le contenu, le design et le développement ?",
+        "font": 17,
+        "width": 600,
+        "height": 26,
+        "images": []
+      },
+      {
+        "id": "I88:4883;22:1377",
+        "name": "Question",
+        "parent": "88:4883",
+        "text": "Faut-il reconstruire entièrement mon site ou mon application ?",
+        "font": 17,
+        "width": 600,
+        "height": 26,
+        "images": []
+      },
+      {
+        "id": "I88:4884;22:1377",
+        "name": "Question",
+        "parent": "88:4884",
+        "text": "Comment saurai-je si la solution est réellement performante ?",
+        "font": 17,
+        "width": 600,
+        "height": 26,
+        "images": []
+      },
+      {
+        "id": "I88:4885;22:1377",
+        "name": "Question",
+        "parent": "88:4885",
+        "text": "Quel budget faut-il prévoir pour travailler avec vous ?",
+        "font": 17,
+        "width": 600,
+        "height": 26,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4886",
+    "name": "13 — CTA final",
+    "width": 1280,
+    "height": 560,
+    "nodes": [
+      {
+        "id": "92:6528",
+        "name": "3D — Objet CTA / PNG original",
+        "parent": "88:4887",
+        "font": null,
+        "width": 480,
+        "height": 419.86578369140625,
+        "images": ["066b47b148525c5e04fbdd2b1c4df4afc9e6ac61"]
+      },
+      {
+        "id": "88:4890",
+        "name": "Decorative / NEXT",
+        "parent": "88:4887",
+        "text": "NEXT",
+        "font": 214,
+        "width": 558,
+        "height": 235,
+        "images": []
+      },
+      {
+        "id": "I88:4891;16:704",
+        "name": "Image",
+        "parent": "88:4891",
+        "text": "Image",
+        "font": 12,
+        "width": 34,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "88:4894",
+        "name": "Prêt à transformer votre projet en résultats concrets ?",
+        "parent": "88:4893",
+        "text": "Prêt à transformer votre projet en résultats concrets ?",
+        "font": 52,
+        "width": 650,
+        "height": 174,
+        "images": []
+      },
+      {
+        "id": "88:4895",
+        "name": "Construisons une landing page, un tunnel ou une application pensée pour vos utilisateurs et vos objectifs.",
+        "parent": "88:4893",
+        "text": "Construisons une landing page, un tunnel ou une application pensée pour vos utilisateurs et vos objectifs.",
+        "font": 17,
+        "width": 584,
+        "height": 52,
+        "images": []
+      },
+      {
+        "id": "88:4897",
+        "name": "Commencer un projet",
+        "parent": "88:4896",
+        "text": "Commencer un projet",
+        "font": 11,
+        "width": 140,
+        "height": 13,
+        "images": []
+      },
+      {
+        "id": "I88:4899;18:909",
+        "name": "Value",
+        "parent": "88:4899",
+        "text": "Votre adresse email",
+        "font": 16,
+        "width": 358,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4900;13:623",
+        "name": "Label",
+        "parent": "88:4900",
+        "text": "Envoyer",
+        "font": 16,
+        "width": 59,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "92:6633",
+        "name": "Title / CTA final",
+        "parent": "92:6636",
+        "text": "Prêt à transformer votre projet en résultats concrets ?",
+        "font": 52,
+        "width": 650,
+        "height": 174,
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "88:4902",
+    "name": "14 — Footer",
+    "width": 1280,
+    "height": 436,
+    "nodes": [
+      {
+        "id": "I88:4906;16:683",
+        "name": "Wordmark",
+        "parent": "88:4906",
+        "text": "BeDev",
+        "font": 17,
+        "width": 51,
+        "height": 23,
+        "images": []
+      },
+      {
+        "id": "I88:4906;16:684",
+        "name": "Dot",
+        "parent": "88:4906",
+        "text": ".",
+        "font": 17,
+        "width": 6,
+        "height": 23,
+        "images": []
+      },
+      {
+        "id": "88:4907",
+        "name": "Conçoit et développe des landing pages, tunnels et applications sur mesure, pensés pour clarifier votre offre, convertir votre trafic et accompagner votre croissance.",
+        "parent": "88:4905",
+        "text": "Conçoit et développe des landing pages, tunnels et applications sur mesure, pensés pour clarifier votre offre, convertir votre trafic et accompagner votre croissance.",
+        "font": 14,
+        "width": 240,
+        "height": 100,
+        "images": []
+      },
+      {
+        "id": "88:4910",
+        "name": "Work",
+        "parent": "88:4909",
+        "text": "Work",
+        "font": 12,
+        "width": 31,
+        "height": 14,
+        "images": []
+      },
+      {
+        "id": "I88:4911;16:686",
+        "name": "Label",
+        "parent": "88:4911",
+        "text": "Accueil",
+        "font": 16,
+        "width": 54,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4912;16:686",
+        "name": "Label",
+        "parent": "88:4912",
+        "text": "Services",
+        "font": 16,
+        "width": 64,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4913;16:686",
+        "name": "Label",
+        "parent": "88:4913",
+        "text": "Mon process",
+        "font": 16,
+        "width": 95,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4914;16:686",
+        "name": "Label",
+        "parent": "88:4914",
+        "text": "Tarifs",
+        "font": 16,
+        "width": 41,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4915;16:686",
+        "name": "Label",
+        "parent": "88:4915",
+        "text": "FAQ",
+        "font": 16,
+        "width": 30,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4916;16:686",
+        "name": "Label",
+        "parent": "88:4916",
+        "text": "Contact",
+        "font": 16,
+        "width": 61,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4919",
+        "name": "COMPANY",
+        "parent": "88:4918",
+        "text": "COMPANY",
+        "font": 12,
+        "width": 62,
+        "height": 14,
+        "images": []
+      },
+      {
+        "id": "I88:4920;16:686",
+        "name": "Label",
+        "parent": "88:4920",
+        "text": "À propos",
+        "font": 16,
+        "width": 66,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4921;16:686",
+        "name": "Label",
+        "parent": "88:4921",
+        "text": "Réalisation",
+        "font": 16,
+        "width": 83,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4922;16:686",
+        "name": "Label",
+        "parent": "88:4922",
+        "text": "Me contacter",
+        "font": 16,
+        "width": 99,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4924",
+        "name": "COLLAB",
+        "parent": "88:4923",
+        "text": "COLLAB",
+        "font": 12,
+        "width": 49,
+        "height": 14,
+        "images": []
+      },
+      {
+        "id": "I88:4925;16:686",
+        "name": "Label",
+        "parent": "88:4925",
+        "text": "Pour les agences",
+        "font": 16,
+        "width": 126,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4926;16:686",
+        "name": "Label",
+        "parent": "88:4926",
+        "text": "Pour les startups",
+        "font": 16,
+        "width": 126,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4929",
+        "name": "RESOURCES",
+        "parent": "88:4928",
+        "text": "RESOURCES",
+        "font": 12,
+        "width": 75,
+        "height": 14,
+        "images": []
+      },
+      {
+        "id": "I88:4930;16:686",
+        "name": "Label",
+        "parent": "88:4930",
+        "text": "Blog",
+        "font": 16,
+        "width": 33,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4931;16:686",
+        "name": "Label",
+        "parent": "88:4931",
+        "text": "Guides",
+        "font": 16,
+        "width": 52,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4932;16:686",
+        "name": "Label",
+        "parent": "88:4932",
+        "text": "Content Sprint",
+        "font": 16,
+        "width": 110,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4934",
+        "name": "EXPLORE",
+        "parent": "88:4933",
+        "text": "EXPLORE",
+        "font": 12,
+        "width": 55,
+        "height": 14,
+        "images": []
+      },
+      {
+        "id": "I88:4935;16:686",
+        "name": "Label",
+        "parent": "88:4935",
+        "text": "Portfolio",
+        "font": 16,
+        "width": 64,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4936;16:686",
+        "name": "Label",
+        "parent": "88:4936",
+        "text": "Etude de cas",
+        "font": 16,
+        "width": 96,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4939",
+        "name": "FOLLOW US",
+        "parent": "88:4938",
+        "text": "FOLLOW US",
+        "font": 12,
+        "width": 70,
+        "height": 14,
+        "images": []
+      },
+      {
+        "id": "I88:4940;16:686",
+        "name": "Label",
+        "parent": "88:4940",
+        "text": "Facebook",
+        "font": 16,
+        "width": 71,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4941;16:686",
+        "name": "Label",
+        "parent": "88:4941",
+        "text": "LinkedIn",
+        "font": 16,
+        "width": 62,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4942;16:686",
+        "name": "Label",
+        "parent": "88:4942",
+        "text": "YouTube",
+        "font": 16,
+        "width": 64,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "I88:4943;16:686",
+        "name": "Label",
+        "parent": "88:4943",
+        "text": "Tiktok",
+        "font": 16,
+        "width": 45,
+        "height": 24,
+        "images": []
+      },
+      {
+        "id": "88:4946",
+        "name": "© 2026 BeDev. All rights reserved.",
+        "parent": "88:4945",
+        "text": "© 2026 BeDev. All rights reserved.",
+        "font": 12,
+        "width": 186,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4948;16:686",
+        "name": "Label",
+        "parent": "88:4948",
+        "text": "Build By Nulanyo Constant",
+        "font": 12,
+        "width": 146,
+        "height": 17,
+        "images": []
+      },
+      {
+        "id": "I88:4949;16:686",
+        "name": "Label",
+        "parent": "88:4949",
+        "text": "Cookie",
+        "font": 12,
+        "width": 39,
+        "height": 17,
+        "images": []
+      }
+    ]
+  }
+]

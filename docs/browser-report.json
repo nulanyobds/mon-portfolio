@@ -1,0 +1,240 @@
+{
+  "viewports": [
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 13141,
+      "h1": 1,
+      "sections": 13,
+      "images": 33,
+      "brokenImages": [],
+      "sectionSizes": [
+        {
+          "id": "accueil",
+          "height": 924,
+          "y": 0
+        },
+        {
+          "id": "",
+          "height": 84,
+          "y": 1036
+        },
+        {
+          "id": "",
+          "height": 660,
+          "y": 1232
+        },
+        {
+          "id": "profils",
+          "height": 816,
+          "y": 2004
+        },
+        {
+          "id": "services",
+          "height": 940,
+          "y": 2932
+        },
+        {
+          "id": "solutions",
+          "height": 1706,
+          "y": 3984
+        },
+        {
+          "id": "about",
+          "height": 853,
+          "y": 5802
+        },
+        {
+          "id": "projets",
+          "height": 1464,
+          "y": 6767
+        },
+        {
+          "id": "methode",
+          "height": 832,
+          "y": 8343
+        },
+        {
+          "id": "tarifs",
+          "height": 1134,
+          "y": 9287
+        },
+        {
+          "id": "contact",
+          "height": 760,
+          "y": 10533
+        },
+        {
+          "id": "faq",
+          "height": 588,
+          "y": 11405
+        },
+        {
+          "id": "",
+          "height": 560,
+          "y": 12105
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 21317,
+      "h1": 1,
+      "sections": 13,
+      "images": 33,
+      "brokenImages": [],
+      "sectionSizes": [
+        {
+          "id": "accueil",
+          "height": 1095,
+          "y": 0
+        },
+        {
+          "id": "",
+          "height": 142,
+          "y": 1175
+        },
+        {
+          "id": "",
+          "height": 722,
+          "y": 1397
+        },
+        {
+          "id": "profils",
+          "height": 1972,
+          "y": 2199
+        },
+        {
+          "id": "services",
+          "height": 2356,
+          "y": 4251
+        },
+        {
+          "id": "solutions",
+          "height": 2278,
+          "y": 6687
+        },
+        {
+          "id": "about",
+          "height": 1422,
+          "y": 9044
+        },
+        {
+          "id": "projets",
+          "height": 2115,
+          "y": 10546
+        },
+        {
+          "id": "methode",
+          "height": 1374,
+          "y": 12741
+        },
+        {
+          "id": "tarifs",
+          "height": 2716,
+          "y": 14195
+        },
+        {
+          "id": "contact",
+          "height": 1236,
+          "y": 16991
+        },
+        {
+          "id": "faq",
+          "height": 1125,
+          "y": 18307
+        },
+        {
+          "id": "",
+          "height": 731,
+          "y": 19512
+        }
+      ]
+    },
+    {
+      "width": 834,
+      "scrollWidth": 834,
+      "height": 13652,
+      "h1": 1,
+      "sections": 13,
+      "images": 33,
+      "brokenImages": [],
+      "sectionSizes": [
+        {
+          "id": "accueil",
+          "height": 924,
+          "y": 0
+        },
+        {
+          "id": "",
+          "height": 84,
+          "y": 1020
+        },
+        {
+          "id": "",
+          "height": 660,
+          "y": 1200
+        },
+        {
+          "id": "profils",
+          "height": 824,
+          "y": 1956
+        },
+        {
+          "id": "services",
+          "height": 1323,
+          "y": 2876
+        },
+        {
+          "id": "solutions",
+          "height": 1693,
+          "y": 4295
+        },
+        {
+          "id": "about",
+          "height": 882,
+          "y": 6084
+        },
+        {
+          "id": "projets",
+          "height": 1464,
+          "y": 7062
+        },
+        {
+          "id": "methode",
+          "height": 824,
+          "y": 8622
+        },
+        {
+          "id": "tarifs",
+          "height": 1226,
+          "y": 9542
+        },
+        {
+          "id": "contact",
+          "height": 848,
+          "y": 10864
+        },
+        {
+          "id": "faq",
+          "height": 616,
+          "y": 11808
+        },
+        {
+          "id": "",
+          "height": 560,
+          "y": 12520
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "toggleWorks": true,
+  "faqWorks": true,
+  "invalidFormBlocked": true,
+  "formHonest": "Le formulaire n’est pas encore connecté. Aucun message n’a été envoyé.",
+  "projectDialog": true,
+  "dialogEscapeWorks": true,
+  "mobileMenuClosed": true
+}

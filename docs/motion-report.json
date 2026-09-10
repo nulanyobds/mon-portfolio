@@ -1,0 +1,57 @@
+{
+  "viewports": [
+    {
+      "width": 1280,
+      "initialServicesState": "typing",
+      "finalServicesState": "final",
+      "toggleActive": true,
+      "titleResetState": "typing",
+      "replayStarted": true,
+      "replayCompleted": true,
+      "cardGroupReset": true,
+      "cardGroupReactivated": true,
+      "toggleReversed": true,
+      "forwardGlow": 1,
+      "reversedGlow": 0,
+      "revealFirstPass": true,
+      "revealReset": true,
+      "revealSecondPass": true,
+      "replayGroupsActivated": 3,
+      "scrollWidth": 1280,
+      "visibleCards": 3,
+      "activeSteps": 1
+    },
+    {
+      "width": 390,
+      "initialServicesState": "typing",
+      "finalServicesState": "final",
+      "toggleActive": true,
+      "titleResetState": "typing",
+      "replayStarted": true,
+      "replayCompleted": true,
+      "cardGroupReset": true,
+      "cardGroupReactivated": true,
+      "toggleReversed": true,
+      "forwardGlow": 1,
+      "reversedGlow": 0,
+      "revealFirstPass": true,
+      "revealReset": true,
+      "revealSecondPass": true,
+      "replayGroupsActivated": 3,
+      "scrollWidth": 390,
+      "visibleCards": 3,
+      "activeSteps": 1
+    }
+  ],
+  "errors": [],
+  "reducedMotion": {
+    "completedTitles": 4,
+    "titleCount": 4,
+    "toggleActive": true
+  },
+  "cpu": {
+    "throttle": "4x",
+    "longTaskCount": 3,
+    "longestLongTaskMs": 65
+  }
+}
