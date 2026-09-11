@@ -4,6 +4,14 @@ import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 import { Brand, Button } from "../ui/Primitives";
 import { motionEase } from "../motion/MotionProvider";
 import s from "../sections/Portfolio.module.css";
+const navItems = [
+  ["Accueil", "accueil"],
+  ["Services", "services"],
+  ["À propos", "about"],
+  ["Projets", "projets"],
+  ["Tarifs", "tarifs"],
+  ["Contact", "contact"],
+] as const;
 export function Header({ active = true }: { active?: boolean }) {
   const [open, setOpen] = useState(false);
   const reduced = useReducedMotion();
@@ -23,9 +31,11 @@ export function Header({ active = true }: { active?: boolean }) {
     >
       <Brand />
       <nav className={s.desktopNav} aria-label="Navigation principale">
-        <a href="#accueil">Home</a>
-        <a href="#about">About</a>
-        <a href="#projets">Projects</a>
+        {navItems.map(([label, id]) => (
+          <a key={id} href={"#" + id}>
+            {label}
+          </a>
+        ))}
       </nav>
       <Button />
       <button
@@ -52,14 +62,7 @@ export function Header({ active = true }: { active?: boolean }) {
               if (e.key === "Escape") close();
             }}
           >
-            {[
-              ["Accueil", "accueil"],
-              ["Services", "services"],
-              ["À propos", "about"],
-              ["Projets", "projets"],
-              ["Tarifs", "tarifs"],
-              ["Contact", "contact"],
-            ].map(([label, id]) => (
+            {navItems.map(([label, id]) => (
               <a key={id} href={"#" + id} onClick={() => setOpen(false)}>
                 {label}
               </a>
