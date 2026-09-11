@@ -773,7 +773,7 @@ export function FinalCTA() {
         aria-hidden="true"
         initial={reduced ? false : { opacity: 0, x: 28 }}
         whileInView={{ opacity: 0.16, x: 0 }}
-        viewport={{ once: false, amount: 0.3, margin: "-10% 0px -10% 0px" }}
+        viewport={{ once: true, amount: 0.3, margin: "-10% 0px -10% 0px" }}
         transition={{ duration: 0.9, ease: motionEase }}
       >
         NEXT
@@ -782,7 +782,7 @@ export function FinalCTA() {
         className={s.ctaCopy}
         initial={reduced ? false : { opacity: 0, y: 28 }}
         whileInView={{ opacity: 1, y: 0 }}
-        viewport={{ once: false, amount: 0.25, margin: "-10% 0px -10% 0px" }}
+        viewport={{ once: true, amount: 0.25, margin: "-10% 0px -10% 0px" }}
         transition={{ duration: 0.72, ease: motionEase }}
       >
         <h2>
@@ -851,6 +851,12 @@ export function Footer() {
     Portfolio: "projets",
     "Etude de cas": "projets",
   };
+  const externalLinks: Record<string, string> = {
+    Facebook: "https://www.facebook.com/nulanyoconstant",
+    LinkedIn: "https://www.linkedin.com/in/nulanyo-constant-koumedzro/",
+    YouTube: "https://www.youtube.com/@nulanyoconstant",
+    Tiktok: "https://www.tiktok.com/@nulanyoconstant",
+  };
   return (
     <motion.footer
       className={s.footer}
@@ -875,6 +881,15 @@ export function Footer() {
               {items.map((t) =>
                 links[t] ? (
                   <a key={t} href={"#" + links[t]}>
+                    {t}
+                  </a>
+                ) : externalLinks[t] ? (
+                  <a
+                    key={t}
+                    href={externalLinks[t]}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     {t}
                   </a>
                 ) : (
